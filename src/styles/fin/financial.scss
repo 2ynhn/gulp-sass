@@ -1,0 +1,11 @@
+$bg1: #f1f2d8;
+$bg2: yellow;
+$bg3: #e6b78b;
+
+.wrap {
+    background-color: $bg1;
+    .body {padding:20px;}
+    .title {font-size: 20px; font-weight: 700;}
+    .dot {border: 1px solid red;}
+    .dot li {font-size: 16px; margin-top: 12px;}
+}
